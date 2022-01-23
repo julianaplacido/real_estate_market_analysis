@@ -29,7 +29,7 @@ Try to answer different questions like:
 
 -Which variables were not?
 
--Were is the model failing? Why?
+-Where is the model failing? Why?
 
 
 
